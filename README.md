@@ -1,1 +1,1 @@
-# tg-
+TG群发器，Telegram群发加群
